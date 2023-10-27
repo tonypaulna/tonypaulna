@@ -22,4 +22,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=tonypaulna&limit=5&theme=matrix&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tonypaulna&label=Profile%20Views&color=10&icon=1&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=tonypaulna&label=Profile%20Views&color=5&pretty=true)](https://visitcount.itsvg.in)
